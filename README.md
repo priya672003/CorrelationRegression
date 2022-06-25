@@ -1,4 +1,8 @@
-# Correlation and Regression for Data Analysis
+### EX.NO : 04
+
+### DATE : 
+
+# <p align="center"> Correlation and Regression for Data Analysis </p>
 # Aim : 
 
 To analyse given data using  coeffificient of correlation and regression line.
